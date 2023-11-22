@@ -10,6 +10,11 @@ Overview
 pyenv local 3.12.0
 ```
 
+```shell
+python -m venv .venv                                                                                                                                                                                                              259ms  2023-11-22 17:20
+source .venv/bin/activate.fish
+```
+
 ## Demo
 
 ## Features
