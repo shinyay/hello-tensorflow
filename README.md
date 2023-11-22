@@ -4,6 +4,12 @@ Overview
 
 ## Description
 
+### Prerequisite
+
+```shell
+pyenv local 3.12.0
+```
+
 ## Demo
 
 ## Features
