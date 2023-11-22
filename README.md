@@ -15,6 +15,10 @@ python -m venv .venv                                                            
 source .venv/bin/activate.fish
 ```
 
+```shell
+pip install --upgrade pip
+```
+
 ## Demo
 
 ## Features
