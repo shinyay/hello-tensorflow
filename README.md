@@ -7,7 +7,7 @@ Overview
 ### Prerequisite
 
 ```shell
-pyenv local 3.12.0
+pyenv local 3.11.6
 ```
 
 ```shell
