@@ -15,6 +15,8 @@ python -m venv .venv                                                            
 source .venv/bin/activate.fish
 ```
 
+> [notice] A new release of pip is available: 23.2.1 -> 23.3.1
+
 ```shell
 pip install --upgrade pip
 ```
