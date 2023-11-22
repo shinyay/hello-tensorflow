@@ -25,6 +25,10 @@ pip install --upgrade pip
 pip install tensorflow
 ```
 
+```shell
+pip install tensorflow-cpu
+```
+
 ## Demo
 
 ## Features
