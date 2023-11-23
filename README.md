@@ -8,6 +8,8 @@ This repository shows how to set up and use **TensorFlow** for the first time.
 
 1. Configure Python version asa 3.11.6. Because Tensorfollow supports `Python 3.8–3.11`
 
+- [Install TensorFlow 2](https://www.tensorflow.org/install)
+
 ```shell
 pyenv local 3.11.6
 ```
