@@ -1,6 +1,6 @@
 # Getting Started with TensorFlow
 
-Overview
+This repository shows how to set up and use **TensorFlow** for the first time.
 
 ## Description
 
