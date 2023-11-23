@@ -11,7 +11,7 @@ pyenv local 3.11.6
 ```
 
 ```shell
-python -m venv .venv                                                                                                                                                                                                              259ms  2023-11-22 17:20
+python -m venv .venv
 source .venv/bin/activate.fish
 ```
 
