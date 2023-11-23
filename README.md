@@ -41,6 +41,17 @@ A smaller CPU-only package:
 pip install tensorflow-cpu
 ```
 
+Operation confirmation:
+
+```python
+import tensorflow as tf
+print(tf.__version__)
+```
+
+```shell
+2.15.0
+```
+
 ## Demo
 
 ## Features
