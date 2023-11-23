@@ -29,6 +29,8 @@ source .venv/bin/activate.fish
 pip install --upgrade pip
 ```
 
+4. Install TensorFlow
+
 ```shell
 pip install tensorflow
 ```
