@@ -35,6 +35,8 @@ pip install --upgrade pip
 pip install tensorflow
 ```
 
+A smaller CPU-only package:
+
 ```shell
 pip install tensorflow-cpu
 ```
