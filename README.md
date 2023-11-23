@@ -14,6 +14,8 @@ This repository shows how to set up and use **TensorFlow** for the first time.
 pyenv local 3.11.6
 ```
 
+2. Configure virtural environment for python
+
 ```shell
 python -m venv .venv
 source .venv/bin/activate.fish
