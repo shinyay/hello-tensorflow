@@ -6,6 +6,8 @@ This repository shows how to set up and use **TensorFlow** for the first time.
 
 ### Prerequisite
 
+1. Configure Python version asa 3.11.6. Because Tensorfollow supports `Python 3.8–3.11`
+
 ```shell
 pyenv local 3.11.6
 ```
