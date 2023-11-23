@@ -21,6 +21,8 @@ python -m venv .venv
 source .venv/bin/activate.fish
 ```
 
+3. Upgrade `pip` for installing **TensorFlow**
+
 > [notice] A new release of pip is available: 23.2.1 -> 23.3.1
 
 ```shell
